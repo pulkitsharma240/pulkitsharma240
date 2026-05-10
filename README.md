@@ -91,51 +91,6 @@
 </p>
 <br>
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pulkitsharma240&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pulkitsharma240&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=pulkitsharma240&theme=tokyonight&hide_border=true" />
-
-</p>
-<br>
-
-# 🧠 Competitive Programming
-
-<p align="center">
-
-<a href="https://leetcode.com/u/pulkitsharma240/">
-  <img src="https://img.shields.io/badge/LeetCode-Account-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/pulkitsharma240">
-  <img src="https://img.shields.io/badge/Codeforces-Account-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    width="46%" align="top"
-    src="https://leetcard.jacoblin.cool/pulkitsharma240?theme=dark&font=Poppins&ext=heatmap"
-  />
-  <img
-    width="46%"
-    src="https://codeforces-readme-stats.vercel.app/api/card?username=pulkitsharma240&theme=github_dark"
-  />
-</p>
-<br>
-
 # 📈 Contribution Graph
 
 <p align="center">
