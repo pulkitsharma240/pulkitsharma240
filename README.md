@@ -95,7 +95,11 @@
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pulkitsharma240&theme=react-dark&hide_border=true&area=true" />
+  <img
+    width="95%"
+    src="https://raw.githubusercontent.com/pulkitsharma240/pulkitsharma240/output/activity-graph.svg"
+    alt="Pulkit Sharma GitHub Activity Graph"
+  />
 
 </p>
 <br>
